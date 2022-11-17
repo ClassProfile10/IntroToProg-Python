@@ -1,0 +1,3 @@
+clean room,med
+wash car,low
+make bed,high
